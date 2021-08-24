@@ -1,4 +1,4 @@
-# Hulu_Tv-Redesign
-Hulu Tv website Redesign with Responsive View.
+# Movies-Website-Redesign
+Movies website Redesign with Responsive View,Slider,Awesome Menu
 
 Live Preview: https://github.com/mhmiyazi/Hulu_Tv-Redesign
