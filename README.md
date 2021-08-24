@@ -9,7 +9,8 @@ Movies website Redesign with,
 Live Preview: https://mhmiyazi.github.io/Movies-Website/
 # Preview:
 # Dark Theme
-<img class="profile-picture" src="img/fullView.png" alt="MH Miyazi's Design Full Preview">
+<img src="img/fullView.png" alt="MH Miyazi's Design Full Preview">
 # Light Theme
-<img class="profile-picture" src="img/FullPreviewLightTheme.png" alt="MH Miyazi's Design Full Preview">
+
+<img src="img/FullPreviewLightTheme.png" alt="MH Miyazi's Design Full Preview">
 
