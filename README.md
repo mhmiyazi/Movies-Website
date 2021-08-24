@@ -1,4 +1,4 @@
 # Movies-Website-Redesign
-Movies website Redesign with Responsive View,Slider,Awesome Menu
+Movies website Redesign with Responsive View,Slider,Awesome Menu,Day & Night View.
 
-Live Preview: https://github.com/mhmiyazi/Hulu_Tv-Redesign
+Live Preview: https://mhmiyazi.github.io/Movies-Website/
