@@ -3,4 +3,4 @@ Movies website Redesign with Responsive View,Slider,Awesome Menu,Day & Night Vie
 
 Live Preview: https://mhmiyazi.github.io/Movies-Website/
 Previw:
-<img class="profile-picture" src="img/MH Miyazi.png" alt="MH Miyazi">
+<img class="profile-picture" src="img/fullView.png" alt="MH Miyazi's Design Full Preview">
