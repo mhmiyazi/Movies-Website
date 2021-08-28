@@ -114,6 +114,7 @@ body {
   background-color: #151515;
   min-height: calc(100vh - 50px);
   color: white;
+  transition: .5s;
 }
 
 .content-container {
