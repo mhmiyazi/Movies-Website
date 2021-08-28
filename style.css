@@ -12,6 +12,7 @@ body {
   background-color: black;
   position: sticky;
   top: 0;
+  transition: .6s ease all;
 }
 
 .navbar-container {
@@ -89,7 +90,7 @@ body {
   right: 1px;
   border-radius: 50%;
   cursor: pointer;
-  transition: 1s ease all;
+  transition: .6s ease all;
 }
 
 .sidebar {
@@ -102,6 +103,7 @@ body {
   flex-direction: column;
   align-items: center;
   padding-top: 60px;
+  transition: .6s ease all;
 }
 
 .left-menu-icon {
@@ -114,7 +116,7 @@ body {
   background-color: #151515;
   min-height: calc(100vh - 50px);
   color: white;
-  transition: 1s ease-in-out;
+  transition: .6s ease all;
 }
 
 .content-container {
